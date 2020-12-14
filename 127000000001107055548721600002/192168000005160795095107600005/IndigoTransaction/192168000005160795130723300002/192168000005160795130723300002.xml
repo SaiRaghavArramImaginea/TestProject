@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_TRANSACTION>
+        <au_modifiedDate><![CDATA[2020-12-14 18:38:27.0]]></au_modifiedDate>
+        <au_OldFlowDescriptor><![CDATA[null]]></au_OldFlowDescriptor>
+        <au_advanced><![CDATA[0]]></au_advanced>
+        <au_retainVarXml><![CDATA[0]]></au_retainVarXml>
+        <au_repositoryAction><![CDATA[L]]></au_repositoryAction>
+        <au_recoverable><![CDATA[1]]></au_recoverable>
+        <au_webPdXml><![CDATA[null]]></au_webPdXml>
+        <au_activeFlag><![CDATA[1]]></au_activeFlag>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_connectDashboardLogging><![CDATA[0]]></au_connectDashboardLogging>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_templateName><![CDATA[null]]></au_templateName>
+        <au_permissionMask><![CDATA[750]]></au_permissionMask>
+        <au_creationDate><![CDATA[2020-12-14 18:38:27.0]]></au_creationDate>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_logRetentionAction><![CDATA[L]]></au_logRetentionAction>
+        <au_priority><![CDATA[LOW]]></au_priority>
+        <au_description><![CDATA[PF_VersionControlDemoProject1]]></au_description>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_realTimeConfiguration><![CDATA[0]]></au_realTimeConfiguration>
+        <au_childFlows><![CDATA[]]></au_childFlows>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_flowDescriptor><![CDATA[PF_VersionControlDemoProject1]]></au_flowDescriptor>
+        <au_dataEncryptionAtRest><![CDATA[useGlobalPolicy]]></au_dataEncryptionAtRest>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_loggingLevel><![CDATA[ERROR]]></au_loggingLevel>
+        <au_entityName><![CDATA[PF_VersionControlDemoProject1]]></au_entityName>
+        <au_id><![CDATA[192168000005160795130723300002]]></au_id>
+        <au_projectOwner><![CDATA[Project:192168000005160795095107600005]]></au_projectOwner>
+        <au_version><![CDATA[1]]></au_version>
+        <au_trackVariables><![CDATA[]]></au_trackVariables>
+    </AU_TRANSACTION>
+    <columnInfo dbtype="4">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="3"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="3"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_flowDescriptor" type="-1"/>
+        <column name="au_activeFlag" type="3"/>
+        <column name="au_templateName" type="12"/>
+        <column name="au_advanced" type="3"/>
+        <column name="au_loggingLevel" type="12"/>
+        <column name="au_priority" type="12"/>
+        <column name="au_repositoryAction" type="12"/>
+        <column name="au_logRetentionAction" type="12"/>
+        <column name="au_childFlows" type="-1"/>
+        <column name="au_trackVariables" type="-1"/>
+        <column name="au_retainVarXml" type="3"/>
+        <column name="au_recoverable" type="3"/>
+        <column name="au_realTimeConfiguration" type="3"/>
+        <column name="au_webPdXml" type="-1"/>
+        <column name="au_OldFlowDescriptor" type="-1"/>
+        <column name="au_dataEncryptionAtRest" type="12"/>
+        <column name="au_connectDashboardLogging" type="3"/>
+    </columnInfo>
+</data>
